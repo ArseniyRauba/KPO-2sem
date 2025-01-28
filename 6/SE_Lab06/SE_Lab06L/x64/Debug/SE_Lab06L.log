@@ -1,0 +1,3 @@
+﻿  func.cpp
+D:\лабы\КПО\6\SE_Lab06\SE_Lab06L\func.cpp(79,9): warning C4101: getDictionary: неиспользованная локальная переменная
+  SE_Lab06L.vcxproj -> D:\лабы\КПО\6\SE_Lab06\x64\Debug\SE_Lab06L.lib
