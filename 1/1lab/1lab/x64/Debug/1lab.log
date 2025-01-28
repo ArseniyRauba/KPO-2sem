@@ -1,0 +1,5 @@
+﻿  1lab.cpp
+D:\лабы\КПО\1\1lab\1lab\1lab.cpp(9,30): warning C4101: leapyear: неиспользованная локальная переменная
+D:\лабы\КПО\1\1lab\1lab\1lab.cpp(9,40): warning C4101: numberofday: неиспользованная локальная переменная
+D:\лабы\КПО\1\1lab\1lab\1lab.cpp(9,52): warning C4101: numberofBday: неиспользованная локальная переменная
+  1lab.vcxproj -> D:\лабы\КПО\1\1lab\x64\Debug\1lab.exe
